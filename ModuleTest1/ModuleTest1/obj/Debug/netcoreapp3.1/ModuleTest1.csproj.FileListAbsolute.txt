@@ -1,0 +1,13 @@
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\bin\Debug\netcoreapp3.1\ModuleTest1.exe
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\bin\Debug\netcoreapp3.1\ModuleTest1.deps.json
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\bin\Debug\netcoreapp3.1\ModuleTest1.runtimeconfig.json
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\bin\Debug\netcoreapp3.1\ModuleTest1.runtimeconfig.dev.json
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\bin\Debug\netcoreapp3.1\ModuleTest1.dll
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\bin\Debug\netcoreapp3.1\ModuleTest1.pdb
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\obj\Debug\netcoreapp3.1\ModuleTest1.csprojAssemblyReference.cache
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\obj\Debug\netcoreapp3.1\ModuleTest1.AssemblyInfoInputs.cache
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\obj\Debug\netcoreapp3.1\ModuleTest1.AssemblyInfo.cs
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\obj\Debug\netcoreapp3.1\ModuleTest1.csproj.CoreCompileInputs.cache
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\obj\Debug\netcoreapp3.1\ModuleTest1.dll
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\obj\Debug\netcoreapp3.1\ModuleTest1.pdb
+C:\Users\Vira\source\repos\VostrikovaVera\moduleTest1\ModuleTest1\ModuleTest1\obj\Debug\netcoreapp3.1\ModuleTest1.genruntimeconfig.cache
