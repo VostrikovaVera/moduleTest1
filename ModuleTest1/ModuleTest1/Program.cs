@@ -16,7 +16,7 @@ else if (!int.TryParse(consoleInput, out arrLength))
 }
 else
 {
-    int[] initialArr = InitArray(1, 26, arrLength);
+    int[] initialArr = InitArray(1, 27, arrLength);
 
     int[] evenValuesArr = new int[arrLength];
 
@@ -78,10 +78,17 @@ char[] EncodeArrAlphabetically(int[] arrayRaw, int arrLength, out int uppercaseC
     {
         arr[i] = aplhabet[arrayRaw[i] - 1];
 
-        if (arr[i] == 'a' || arr[i] == 'e' || arr[i] == 'i' || arr[i] == 'd' || arr[i] == 'h' || arr[i] == 'j')
+        switch (arr[i])
         {
-            arr[i] = char.ToUpper(arr[i]);
-            uppercaseCount++;
+            case 'a':
+            case 'e':
+            case 'i':
+            case 'd':
+            case 'h':
+            case 'j':
+                arr[i] = char.ToUpper(arr[i]);
+                uppercaseCount++;
+                break;
         }
     }
 
